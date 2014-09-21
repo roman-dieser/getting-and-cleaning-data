@@ -27,6 +27,8 @@ Participants of the experiment were encoded in the following files:
 * train/subject_train.txt
 * test/subject_test.txt
 
+# Output File
+
 In the output file these codes are presented with *train_subject* and *test_subject* suffixes respectively.
 
 After running the transformation script, as it has been described in the Readme file, an aggregated information is presented as a script output stream and as a file **sample-aggregated.txt** with the identical data, consisting of a header line with the field names and 35 data lines with space separated fields.
