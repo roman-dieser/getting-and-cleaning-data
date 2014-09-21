@@ -11,7 +11,7 @@ The source files, which are relevant for this project, contain the data, collect
 In the both groups the same measurements were done and recorded in 561 varibles, described here:
 
 * features_info.txt
-* features.R
+* features.txt
 
 For the transformation of the given data only mean and standard deviation variables were used, which were picked up by their names, containig *mean()* and *std()* substrings respectively.
 
