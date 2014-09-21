@@ -35,7 +35,7 @@ After running the transformation script, as it has been described in the Readme 
 
 The data has been aggregated by activity kinds and participating subjects by means of R function *aggregate*, in which *mean()* function were used for the in group calculations.
 
-As the result the following variables are saved:
+As the result the following variables are being saved:
 
 - "Group.1" -- activity art
 - "Group.2" -- subject ID
